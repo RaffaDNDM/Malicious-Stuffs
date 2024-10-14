@@ -1,0 +1,7 @@
+pycrypto
+termcolor
+argparse
+glob2
+customtkinter
+hashlib
+pyotp

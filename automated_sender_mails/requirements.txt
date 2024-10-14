@@ -1,0 +1,6 @@
+boto3
+email
+schedule
+smtplib
+argparse
+termcolor

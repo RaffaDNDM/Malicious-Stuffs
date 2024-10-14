@@ -1,0 +1,4 @@
+pycrypto
+argparse
+termcolor
+glob2
